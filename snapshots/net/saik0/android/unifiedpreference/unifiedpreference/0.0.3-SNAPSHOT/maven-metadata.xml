@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.saik0.android.unifiedpreference</groupId>
+  <artifactId>unifiedpreference</artifactId>
+  <version>0.0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131006.122625</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131006122625</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>0.0.3-20131006.122625-1</value>
+        <updated>20131006122625</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.3-20131006.122625-1</value>
+        <updated>20131006122625</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
