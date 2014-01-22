@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>it.gmariotti.cardslib</groupId>
+  <artifactId>cardslib</artifactId>
+  <version>1.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140122.214034</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140122214034</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.2.1-20140122.214034-1</value>
+        <updated>20140122214034</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.1-20140122.214034-1</value>
+        <updated>20140122214034</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
