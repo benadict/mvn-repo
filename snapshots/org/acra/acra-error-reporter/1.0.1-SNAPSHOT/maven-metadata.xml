@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.acra</groupId>
+  <artifactId>acra-error-reporter</artifactId>
+  <version>1.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140402.170110</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20140402170110</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.1-20140402.170110-3</value>
+        <updated>20140402170110</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.1-20140402.170110-3</value>
+        <updated>20140402170110</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
