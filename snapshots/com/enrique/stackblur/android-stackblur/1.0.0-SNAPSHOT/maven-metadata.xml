@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.enrique.stackblur</groupId>
+  <artifactId>android-stackblur</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140427.200241</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140427200241</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>1.0.0-20140427.200241-1</value>
+        <updated>20140427200241</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20140427.200241-1</value>
+        <updated>20140427200241</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
