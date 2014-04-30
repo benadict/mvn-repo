@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.sothree.slidinguppanel</groupId>
+  <artifactId>slidinguppanel</artifactId>
+  <version>library-1.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140430.145748</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140430145748</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>library-1.0.2-20140430.145748-1</value>
+        <updated>20140430145748</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>library-1.0.2-20140430.145748-1</value>
+        <updated>20140430145748</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
