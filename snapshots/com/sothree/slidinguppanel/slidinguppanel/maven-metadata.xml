@@ -3,12 +3,13 @@
   <groupId>com.sothree.slidinguppanel</groupId>
   <artifactId>slidinguppanel</artifactId>
   <versioning>
-    <release>library-1.0.1-SNAPSHOT.aar</release>
+    <release>library-1.0.2-SNAPSHOT.aar</release>
     <versions>
       <version>library-1.0.0-SNAPSHOT.aar</version>
       <version>library-1.0.1-SNAPSHOT.aar</version>
       <version>1.0.1-SNAPSHOT</version>
+      <version>library-1.0.2-SNAPSHOT.aar</version>
     </versions>
-    <lastUpdated>20140205165358</lastUpdated>
+    <lastUpdated>20140430145238</lastUpdated>
   </versioning>
 </metadata>
