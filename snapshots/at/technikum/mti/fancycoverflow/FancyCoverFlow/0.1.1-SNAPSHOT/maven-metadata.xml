@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>at.technikum.mti.fancycoverflow</groupId>
+  <artifactId>FancyCoverFlow</artifactId>
+  <version>0.1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140512.135123</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140512135123</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>aar</extension>
+        <value>0.1.1-20140512.135123-1</value>
+        <updated>20140512135123</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.1-20140512.135123-1</value>
+        <updated>20140512135123</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
