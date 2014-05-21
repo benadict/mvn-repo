@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.dmytrodanylyk.android-process-button</groupId>
+  <artifactId>library</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140521092003</lastUpdated>
+  </versioning>
+</metadata>
